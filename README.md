@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Back end with FastAPI in Python and Java. I also work at Front End in HTML/CSS/JS. I am interested in,as I say my hobbie, Machine Learning with Keras and Computer Vision with YOLO
+I'm currently working on Back end with FastAPI in Python and Springboot in Java. I also work at Front End in HTML/CSS/JS. I am interested in,as I say my hobbie, Machine Learning with Keras and Computer Vision with YOLO
 
 
 ## 🌐 Socials:
